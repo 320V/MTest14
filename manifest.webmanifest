@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Yıldız Takımı",
+    "short_name": "MEB - Yıldız Takımı",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#800000",
+    "theme_color": "#000",
+    "description": "Yıldız Takımı",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
